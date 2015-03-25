@@ -6,6 +6,7 @@ Vim Theme matching the Eighties version of [Spacegray](https://github.com/kkga/s
 
 Look how almost correct it is!
 
+![comparison](https://raw.githubusercontent.com/hhff/SpacegrayEighties.vim/master/screenshots/comparison.png)
 
 ## Installation
 
@@ -14,6 +15,10 @@ If you don't have a preferred installation method, I recommend installing
 paste:
 
     cd ~/.vim/bundle && git clone git://github.com/hhff/SpacegrayEighties.vim.git
+
+Then in your ~/.vimrc, add this line:
+
+    colorscheme spacegray
 
 ## Related Links
 
