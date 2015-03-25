@@ -18,7 +18,7 @@ paste:
 
 Then in your ~/.vimrc, add this line:
 
-    colorscheme spacegray
+    colorscheme SpacegrayEighties
 
 ## Related Links
 
